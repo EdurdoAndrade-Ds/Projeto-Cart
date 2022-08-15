@@ -1,0 +1,15 @@
+{
+    "name": "alexandrecardoso/cart",
+    "authors": [
+        {
+            "name": "Alexandre Eduardo Cardoso",
+            "email": "68569575+aleduca@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "app\\":"app"
+        }
+    }
+}
